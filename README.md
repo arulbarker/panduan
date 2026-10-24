@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| ComfyUI: bikin gambar & video AI di komputer sendiri | https://arulbarker.github.io/panduan/comfyui.pdf |
 | Knowledge Work Plugins: Claude jadi tim bisnismu | https://arulbarker.github.io/panduan/knowledge-plugins.pdf |
 | Impeccable: bikin AI-mu jago desain | https://arulbarker.github.io/panduan/impeccable.pdf |
 | PPT Master: PDF jadi PowerPoint | https://arulbarker.github.io/panduan/ppt-master.pdf |
