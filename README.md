@@ -4,6 +4,9 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Joplin: semua catatan di satu aplikasi | https://arulbarker.github.io/panduan/joplin.pdf |
+| Excalidraw: bikin diagram tanpa jago gambar | https://arulbarker.github.io/panduan/excalidraw.pdf |
+| OpenWhispr: ngomong jadi teks, gratis & offline | https://arulbarker.github.io/panduan/openwhispr.pdf |
 | Prompt Optimizer: rapikan prompt AI sekali klik | https://arulbarker.github.io/panduan/prompt-optimizer.pdf |
 | ShareX: rekam layar & screenshot gratis untuk Windows | https://arulbarker.github.io/panduan/sharex.pdf |
 | PhotoCraft: edit foto ala Photoshop, gratis & offline | https://arulbarker.github.io/panduan/photocraft.pdf |
