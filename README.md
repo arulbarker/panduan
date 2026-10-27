@@ -4,6 +4,9 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| PowerToys: Windows makin cepat & pintar | https://arulbarker.github.io/panduan/powertoys.pdf |
+| Jan: ChatGPT versimu tanpa internet | https://arulbarker.github.io/panduan/jan.pdf |
+| LosslessCut: potong video dalam hitungan detik | https://arulbarker.github.io/panduan/losslesscut.pdf |
 | Joplin: semua catatan di satu aplikasi | https://arulbarker.github.io/panduan/joplin.pdf |
 | Excalidraw: bikin diagram tanpa jago gambar | https://arulbarker.github.io/panduan/excalidraw.pdf |
 | OpenWhispr: ngomong jadi teks, gratis & offline | https://arulbarker.github.io/panduan/openwhispr.pdf |
