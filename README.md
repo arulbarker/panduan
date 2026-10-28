@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Worksheet Kids Studio: worksheet anak tema apa aja (panduan + link) | https://arulbarker.github.io/panduan/app-worksheet.pdf |
 | Concat: edit video gratis tanpa watermark | https://arulbarker.github.io/panduan/concat.pdf |
 | Storyboard Studio Pro: bikin influencer AI sendiri (panduan + link) | https://arulbarker.github.io/panduan/app-storyboard.pdf |
 | AB Download Manager: download lebih cepat & gratis | https://arulbarker.github.io/panduan/abdm.pdf |
