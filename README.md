@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| AB Download Manager: download lebih cepat & gratis | https://arulbarker.github.io/panduan/abdm.pdf |
 | PowerToys: Windows makin cepat & pintar | https://arulbarker.github.io/panduan/powertoys.pdf |
 | Jan: ChatGPT versimu tanpa internet | https://arulbarker.github.io/panduan/jan.pdf |
 | LosslessCut: potong video dalam hitungan detik | https://arulbarker.github.io/panduan/losslesscut.pdf |
