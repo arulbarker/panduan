@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Canvla AI: foto biasa jadi sinematik (panduan + link) | https://arulbarker.github.io/panduan/app-canvla.pdf |
 | Modly: ubah foto jadi model 3D di komputer sendiri | https://arulbarker.github.io/panduan/modly.pdf |
 | AI Modif Studio: lihat hasil modif sebelum keluar uang (panduan + link) | https://arulbarker.github.io/panduan/app-modif.pdf |
 | MangoDisk: bersihkan disk laptop yang penuh | https://arulbarker.github.io/panduan/mangodisk.pdf |
