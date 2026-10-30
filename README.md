@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| MangoDisk: bersihkan disk laptop yang penuh | https://arulbarker.github.io/panduan/mangodisk.pdf |
 | Worksheet Kids Studio: worksheet anak tema apa aja (panduan + link) | https://arulbarker.github.io/panduan/app-worksheet.pdf |
 | Concat: edit video gratis tanpa watermark | https://arulbarker.github.io/panduan/concat.pdf |
 | Storyboard Studio Pro: bikin influencer AI sendiri (panduan + link) | https://arulbarker.github.io/panduan/app-storyboard.pdf |
