@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Modly: ubah foto jadi model 3D di komputer sendiri | https://arulbarker.github.io/panduan/modly.pdf |
 | AI Modif Studio: lihat hasil modif sebelum keluar uang (panduan + link) | https://arulbarker.github.io/panduan/app-modif.pdf |
 | MangoDisk: bersihkan disk laptop yang penuh | https://arulbarker.github.io/panduan/mangodisk.pdf |
 | Worksheet Kids Studio: worksheet anak tema apa aja (panduan + link) | https://arulbarker.github.io/panduan/app-worksheet.pdf |
