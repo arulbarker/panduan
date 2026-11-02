@@ -5,6 +5,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 | Panduan | Link |
 |---|---|
 | Canvla AI: foto biasa jadi sinematik (panduan + link) | https://arulbarker.github.io/panduan/app-canvla.pdf |
+| Reactive Resume: bikin CV rapi gratis tanpa langganan | https://arulbarker.github.io/panduan/reactive-resume.pdf |
 | Worksheet Kids Studio: bikin paket worksheet untuk dijual | https://arulbarker.github.io/panduan/app-worksheet-2.pdf |
 | Screenity: rekam layar gratis tanpa batas di Chrome | https://arulbarker.github.io/panduan/screenity.pdf |
 | Modly: ubah foto jadi model 3D di komputer sendiri | https://arulbarker.github.io/panduan/modly.pdf |
