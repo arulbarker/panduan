@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| GDevelop: bikin game sendiri tanpa coding | https://arulbarker.github.io/panduan/gdevelop.pdf |
 | Canvla AI: foto biasa jadi sinematik (panduan + link) | https://arulbarker.github.io/panduan/app-canvla.pdf |
 | AI Modif Studio untuk bengkel & toko part (panduan + link) | https://arulbarker.github.io/panduan/app-modif-2.pdf |
 | Reactive Resume: bikin CV rapi gratis tanpa langganan | https://arulbarker.github.io/panduan/reactive-resume.pdf |
