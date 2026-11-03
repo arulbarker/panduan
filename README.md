@@ -4,6 +4,8 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Super Productivity: to-do list gratis yang bikin fokus | https://arulbarker.github.io/panduan/super-productivity.pdf |
+| Storyboard Studio Pro: model AI pakai produk affiliate-mu (panduan + link) | https://arulbarker.github.io/panduan/app-storyboard-2.pdf |
 | GDevelop: bikin game sendiri tanpa coding | https://arulbarker.github.io/panduan/gdevelop.pdf |
 | Canvla AI: foto biasa jadi sinematik (panduan + link) | https://arulbarker.github.io/panduan/app-canvla.pdf |
 | AI Modif Studio untuk bengkel & toko part (panduan + link) | https://arulbarker.github.io/panduan/app-modif-2.pdf |
