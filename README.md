@@ -4,6 +4,8 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Image Toolbox: satu aplikasi gratis untuk semua urusan gambar | https://arulbarker.github.io/panduan/imagetoolbox.pdf |
+| Worksheet Kids Studio untuk guru & bimbel (panduan + link) | https://arulbarker.github.io/panduan/app-worksheet-3.pdf |
 | Graphite: desain grafis gratis langsung di browser | https://arulbarker.github.io/panduan/graphite.pdf |
 | Super Productivity: to-do list gratis yang bikin fokus | https://arulbarker.github.io/panduan/super-productivity.pdf |
 | Storyboard Studio Pro: model AI pakai produk affiliate-mu (panduan + link) | https://arulbarker.github.io/panduan/app-storyboard-2.pdf |
