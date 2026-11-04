@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Graphite: desain grafis gratis langsung di browser | https://arulbarker.github.io/panduan/graphite.pdf |
 | Super Productivity: to-do list gratis yang bikin fokus | https://arulbarker.github.io/panduan/super-productivity.pdf |
 | Storyboard Studio Pro: model AI pakai produk affiliate-mu (panduan + link) | https://arulbarker.github.io/panduan/app-storyboard-2.pdf |
 | GDevelop: bikin game sendiri tanpa coding | https://arulbarker.github.io/panduan/gdevelop.pdf |
