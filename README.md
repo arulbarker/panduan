@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Ventoy: satu flashdisk, banyak sistem, tanpa format ulang | https://arulbarker.github.io/panduan/ventoy.pdf |
 | LocalSend: kirim file antar perangkat tanpa internet | https://arulbarker.github.io/panduan/localsend.pdf |
 | AI Modif Studio: ganti warna mobil tanpa cat ulang (panduan + link) | https://arulbarker.github.io/panduan/app-modif-4.pdf |
 | Worksheet Kids Studio: 4 worksheet dalam sekali klik (panduan + link) | https://arulbarker.github.io/panduan/app-worksheet-4.pdf |
