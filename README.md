@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| VO Studio: podcast 2 pembicara tanpa rekaman (panduan + link) | https://arulbarker.github.io/panduan/app-vostudio.pdf |
 | Feedz Generator: 1 foto jadi 6 post feed IG seragam (panduan + link) | https://arulbarker.github.io/panduan/app-feedz.pdf |
 | Affiliate GO: foto menu kelas studio dari foto seadanya (panduan + link) | https://arulbarker.github.io/panduan/app-affgo.pdf |
 | Canvla AI: foto biasa jadi rasa film analog (panduan + link) | https://arulbarker.github.io/panduan/app-canvla-2.pdf |
