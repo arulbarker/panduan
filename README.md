@@ -1,4 +1,5 @@
-# Panduan dari arul.cg
+# Panduan| Canvla AI: foto biasa jadi rasa film analog (panduan + link) | https://arulbarker.github.io/panduan/app-canvla-2.pdf |
+ dari arul.cg
 
 Kumpulan panduan PDF gratis dari konten arul.cg.
 
