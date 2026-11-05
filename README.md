@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| AI Modif Studio untuk konten otomotif (panduan + link) | https://arulbarker.github.io/panduan/app-modif-3.pdf |
 | Image Toolbox: satu aplikasi gratis untuk semua urusan gambar | https://arulbarker.github.io/panduan/imagetoolbox.pdf |
 | Worksheet Kids Studio untuk guru & bimbel (panduan + link) | https://arulbarker.github.io/panduan/app-worksheet-3.pdf |
 | Graphite: desain grafis gratis langsung di browser | https://arulbarker.github.io/panduan/graphite.pdf |
