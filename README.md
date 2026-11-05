@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Feedz Generator: 1 foto jadi 6 post feed IG seragam (panduan + link) | https://arulbarker.github.io/panduan/app-feedz.pdf |
 | Affiliate GO: foto menu kelas studio dari foto seadanya (panduan + link) | https://arulbarker.github.io/panduan/app-affgo.pdf |
 | Canvla AI: foto biasa jadi rasa film analog (panduan + link) | https://arulbarker.github.io/panduan/app-canvla-2.pdf |
 | AI Modif Studio untuk konten otomotif (panduan + link) | https://arulbarker.github.io/panduan/app-modif-3.pdf |
