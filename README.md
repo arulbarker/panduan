@@ -3,9 +3,9 @@
 Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
-|---|---|| Affiliate GO: foto menu kelas studio dari foto seadanya (panduan + link) | https://arulbarker.github.io/panduan/app-affgo.pdf |
+|---|---|
+| Affiliate GO: foto menu kelas studio dari foto seadanya (panduan + link) | https://arulbarker.github.io/panduan/app-affgo.pdf |
 | Canvla AI: foto biasa jadi rasa film analog (panduan + link) | https://arulbarker.github.io/panduan/app-canvla-2.pdf |
-
 | AI Modif Studio untuk konten otomotif (panduan + link) | https://arulbarker.github.io/panduan/app-modif-3.pdf |
 | Image Toolbox: satu aplikasi gratis untuk semua urusan gambar | https://arulbarker.github.io/panduan/imagetoolbox.pdf |
 | Worksheet Kids Studio untuk guru & bimbel (panduan + link) | https://arulbarker.github.io/panduan/app-worksheet-3.pdf |
