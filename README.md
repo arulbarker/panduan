@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Upscayl: foto kecil & pecah jadi tajam lagi, gratis | https://arulbarker.github.io/panduan/upscayl.pdf |
 | Ventoy: satu flashdisk, banyak sistem, tanpa format ulang | https://arulbarker.github.io/panduan/ventoy.pdf |
 | LocalSend: kirim file antar perangkat tanpa internet | https://arulbarker.github.io/panduan/localsend.pdf |
 | AI Modif Studio: ganti warna mobil tanpa cat ulang (panduan + link) | https://arulbarker.github.io/panduan/app-modif-4.pdf |
