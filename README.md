@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Humanizer: tulisan AI jadi terdengar manusia | https://arulbarker.github.io/panduan/humanizer.pdf |
 | Upscayl: foto kecil & pecah jadi tajam lagi, gratis | https://arulbarker.github.io/panduan/upscayl.pdf |
 | Ventoy: satu flashdisk, banyak sistem, tanpa format ulang | https://arulbarker.github.io/panduan/ventoy.pdf |
 | LocalSend: kirim file antar perangkat tanpa internet | https://arulbarker.github.io/panduan/localsend.pdf |
