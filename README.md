@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| KeePassXC: brankas sandi yang jalan tanpa internet | https://arulbarker.github.io/panduan/keepassxc.pdf |
 | HandBrake: ubah format video biar jalan di mana saja | https://arulbarker.github.io/panduan/handbrake.pdf |
 | Humanizer: tulisan AI jadi terdengar manusia | https://arulbarker.github.io/panduan/humanizer.pdf |
 | Upscayl: foto kecil & pecah jadi tajam lagi, gratis | https://arulbarker.github.io/panduan/upscayl.pdf |
