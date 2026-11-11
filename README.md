@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| BentoPDF: semua alat PDF gratis, tanpa upload | https://arulbarker.github.io/panduan/bentopdf.pdf |
 | Espanso: ketik singkatan, kalimat lengkapnya keluar sendiri | https://arulbarker.github.io/panduan/espanso.pdf |
 | OpenShot: aplikasi edit video gratis & open source | https://arulbarker.github.io/panduan/openshot.pdf |
 | KeePassXC: brankas sandi yang jalan tanpa internet | https://arulbarker.github.io/panduan/keepassxc.pdf |
