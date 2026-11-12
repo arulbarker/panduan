@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kelas Gratis · Jualan Produk Digital di Lynk.id</title>
+<meta name="description" content="6 video + PDF panduan bergambar: jualan produk digital dan aplikasi AI di Lynk.id, dari nol.">
+<style>
+:root{--bg:#0E1110;--card:#171C1A;--line:#2A332F;--ink:#F4F7F5;--soft:#9AA59F;--hijau:#3BE477}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(900px 500px at 20% 0%,#14231B,var(--bg) 60%) fixed,var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:860px;margin:0 auto;padding:28px 16px 60px}
+.logo{display:flex;gap:12px;align-items:center}
+.logo b{display:grid;place-items:center;width:44px;height:44px;border-radius:12px;background:var(--hijau);color:var(--bg);font-weight:900}
+.logo small{display:block;color:var(--hijau);font-weight:800;letter-spacing:2px;font-size:11px}
+h1{font-size:clamp(28px,6vw,42px);line-height:1.1;margin:26px 0 10px}
+.sub{color:var(--soft);margin:0 0 26px}
+.video{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:16px;margin:0 0 18px}
+.video h2{font-size:19px;margin:4px 0 12px}
+.video h2 span{color:var(--hijau);font-size:13px;font-weight:800;letter-spacing:1px;display:block}
+.frame{position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000}
+.frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.aksi{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+.aksi a{color:var(--bg);background:var(--hijau);text-decoration:none;font-weight:800;padding:10px 16px;border-radius:999px;font-size:14px}
+.aksi a.garis{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.lanjut{border:2px solid var(--hijau);border-radius:20px;padding:22px;margin-top:30px;background:var(--card)}
+.lanjut h3{margin:0 0 8px;font-size:22px}
+.lanjut p{color:var(--soft);margin:0 0 14px}
+.kecil{font-size:13px;color:var(--soft);margin-top:30px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="logo"><b>AI</b><div><small>KELAS GRATIS</small><strong>Jualan Produk Digital di Lynk.id</strong></div></div>
+  <h1>Jualan produk digital di Lynk.id, dari nol</h1>
+  <p class="sub">6 video singkat + PDF panduan bergambar. Tonton berurutan. Contoh utama: aplikasi AI. Belum punya produk? Video 4 menunjukkan cara jualan lewat affiliate.</p>
+  <div id="daftar"></div>
+
+  <div class="lanjut">
+    <h3>Mau punya aplikasi AI sendiri?</h3>
+    <p>Kelas lanjutan "Jago Buat Aplikasi Gemini Canvas" mengajarkan alur kerja yang dipakai untuk membuat aplikasi-aplikasi di kelas ini, sampai login pembeli dan jualan di Lynk.id. Kelas berbayar, butuh langganan Claude Pro. Tanpa janji penghasilan.</p>
+    <div class="aksi"><a href="https://lynk.id/arullagi/rznx9vexmn83">Lihat kelas lanjutan</a></div>
+  </div>
+  <p class="kecil">Materi ini gratis. Mohon tidak diperjualbelikan. © arul.cg</p>
+</div>
+<script>
+const V = [
+  ["Kenapa produk digital & kenapa Lynk.id", "4lszh58xpa8"],
+  ["Tur lengkap fitur Lynk.id", "Kp_Hkz83xkA"],
+  ["Jual produk digitalmu sendiri", "sCcf2pwd0zg"],
+  ["Belum punya produk? Jualan lewat affiliate", "EQWXIY0Tjyc"],
+  ["Setel Instagram Profesional", "-6qcxM70M9U"],
+  ["Bikin konten yang menjual", "HgO-CSnx6Ag"],
+];
+document.getElementById("daftar").innerHTML = V.map(([j, id], i) => `
+  <section class="video">
+    <h2><span>VIDEO ${i + 1} DARI 6</span>${j}</h2>
+    <div class="frame"><iframe src="https://www.youtube-nocookie.com/embed/${id}" title="${j}" loading="lazy" allowfullscreen></iframe></div>
+    <div class="aksi"><a href="video-${i + 1}.pdf">Buka PDF</a><a class="garis" href="https://youtu.be/${id}">Tonton di YouTube</a></div>
+  </section>`).join("");
+</script>
+</body>
+</html>

@@ -55,5 +55,6 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 | PPT Master: PDF jadi PowerPoint | https://arulbarker.github.io/panduan/ppt-master.pdf |
 | HyperFrames: bikin video cuma ngetik | https://arulbarker.github.io/panduan/hyperframes.pdf |
 | VoiceStudio: klon suara & dubbing AI gratis | https://arulbarker.github.io/panduan/voicestudio.pdf |
+| Kelas Gratis: Jualan Produk Digital di Lynk.id (6 video + PDF) | https://arulbarker.github.io/panduan/kelas-gratis-lynk/ |
 
 Butuh aplikasi untuk kebutuhan sehari-hari? Cek https://lynk.id/arullagi
