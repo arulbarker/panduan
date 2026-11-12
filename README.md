@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Meetily: notulen rapat otomatis dengan AI | https://arulbarker.github.io/panduan/meetily.pdf |
 | ActivityWatch: tahu ke mana waktumu habis | https://arulbarker.github.io/panduan/activitywatch.pdf |
 | BentoPDF: semua alat PDF gratis, tanpa upload | https://arulbarker.github.io/panduan/bentopdf.pdf |
 | Espanso: ketik singkatan, kalimat lengkapnya keluar sendiri | https://arulbarker.github.io/panduan/espanso.pdf |
