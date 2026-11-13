@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Voicebox: klon suaramu sendiri dengan AI, gratis | https://arulbarker.github.io/panduan/voicebox.pdf |
 | Meetily: notulen rapat otomatis dengan AI | https://arulbarker.github.io/panduan/meetily.pdf |
 | ActivityWatch: tahu ke mana waktumu habis | https://arulbarker.github.io/panduan/activitywatch.pdf |
 | BentoPDF: semua alat PDF gratis, tanpa upload | https://arulbarker.github.io/panduan/bentopdf.pdf |
