@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| FreeVideo: bikin video AI di komputer sendiri | https://arulbarker.github.io/panduan/freevideo.pdf |
 | Krita AI Diffusion: edit gambar pakai AI, gratis & lokal | https://arulbarker.github.io/panduan/krita-ai.pdf |
 | Voicebox: klon suaramu sendiri dengan AI, gratis | https://arulbarker.github.io/panduan/voicebox.pdf |
 | Meetily: notulen rapat otomatis dengan AI | https://arulbarker.github.io/panduan/meetily.pdf |
