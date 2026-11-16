@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| pyVideoTrans: terjemah & dubbing video ke bahasa lain | https://arulbarker.github.io/panduan/pyvideotrans.pdf |
 | FreeVideo: bikin video AI di komputer sendiri | https://arulbarker.github.io/panduan/freevideo.pdf |
 | Krita AI Diffusion: edit gambar pakai AI, gratis & lokal | https://arulbarker.github.io/panduan/krita-ai.pdf |
 | Voicebox: klon suaramu sendiri dengan AI, gratis | https://arulbarker.github.io/panduan/voicebox.pdf |
