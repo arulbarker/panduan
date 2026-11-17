@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| PocketPal AI: AI di ponsel tanpa internet | https://arulbarker.github.io/panduan/pocketpal.pdf |
 | pyVideoTrans: terjemah & dubbing video ke bahasa lain | https://arulbarker.github.io/panduan/pyvideotrans.pdf |
 | FreeVideo: bikin video AI di komputer sendiri | https://arulbarker.github.io/panduan/freevideo.pdf |
 | Krita AI Diffusion: edit gambar pakai AI, gratis & lokal | https://arulbarker.github.io/panduan/krita-ai.pdf |
