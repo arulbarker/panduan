@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| YuE2 Studio: bikin lagu utuh pakai AI di PC | https://arulbarker.github.io/panduan/yue2-studio.pdf |
 | PocketPal AI: AI di ponsel tanpa internet | https://arulbarker.github.io/panduan/pocketpal.pdf |
 | pyVideoTrans: terjemah & dubbing video ke bahasa lain | https://arulbarker.github.io/panduan/pyvideotrans.pdf |
 | FreeVideo: bikin video AI di komputer sendiri | https://arulbarker.github.io/panduan/freevideo.pdf |
