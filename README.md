@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Canvla AI: ubah foto jadi bersalju, hujan, berkabut (panduan + link) | https://arulbarker.github.io/panduan/app-canvla-3.pdf |
 | Umi-OCR: ambil teks dari gambar, gratis & offline | https://arulbarker.github.io/panduan/umi-ocr.pdf |
 | YuE2 Studio: bikin lagu utuh pakai AI di PC | https://arulbarker.github.io/panduan/yue2-studio.pdf |
 | PocketPal AI: AI di ponsel tanpa internet | https://arulbarker.github.io/panduan/pocketpal.pdf |
