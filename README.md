@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Jarvis: asisten AI bersuara di komputer sendiri | https://arulbarker.github.io/panduan/jarvis.pdf |
 | Generative AI for Beginners: kelas AI dari Microsoft | https://arulbarker.github.io/panduan/kelas-ai.pdf |
 | Affiliate GO: 1 nama usaha jadi 4 logo (panduan + link) | https://arulbarker.github.io/panduan/app-affgo-2.pdf |
 | Canvla AI: ubah foto jadi bersalju, hujan, berkabut (panduan + link) | https://arulbarker.github.io/panduan/app-canvla-3.pdf |
