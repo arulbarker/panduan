@@ -4,6 +4,8 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| Generative AI for Beginners: kelas AI dari Microsoft | https://arulbarker.github.io/panduan/kelas-ai.pdf |
+| Affiliate GO: 1 nama usaha jadi 4 logo (panduan + link) | https://arulbarker.github.io/panduan/app-affgo-2.pdf |
 | Canvla AI: ubah foto jadi bersalju, hujan, berkabut (panduan + link) | https://arulbarker.github.io/panduan/app-canvla-3.pdf |
 | Umi-OCR: ambil teks dari gambar, gratis & offline | https://arulbarker.github.io/panduan/umi-ocr.pdf |
 | YuE2 Studio: bikin lagu utuh pakai AI di PC | https://arulbarker.github.io/panduan/yue2-studio.pdf |
