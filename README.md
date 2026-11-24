@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| OpenWorker: rekan kerja AI di komputermu | https://arulbarker.github.io/panduan/openworker.pdf |
 | Filee: ubah format file cukup geser & lepas | https://arulbarker.github.io/panduan/filee.pdf |
 | Feedz Generator: 1 foto jadi carousel 5 slide | https://arulbarker.github.io/panduan/app-feedz-2.pdf |
 | Jantt: jadwal proyek (Gantt) pakai AI, gratis | https://arulbarker.github.io/panduan/jantt.pdf |
