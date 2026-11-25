@@ -4,6 +4,7 @@ Kumpulan panduan PDF gratis dari konten arul.cg.
 
 | Panduan | Link |
 |---|---|
+| VO Studio: suara AI datar jadi suara iklan lewat Director (panduan + link) | https://arulbarker.github.io/panduan/app-vostudio-2.pdf |
 | Nanobrowser: agen AI di browser kamu | https://arulbarker.github.io/panduan/nanobrowser.pdf |
 | OpenWorker: rekan kerja AI di komputermu | https://arulbarker.github.io/panduan/openworker.pdf |
 | Filee: ubah format file cukup geser & lepas | https://arulbarker.github.io/panduan/filee.pdf |
